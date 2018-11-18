@@ -1,0 +1,41 @@
+body {
+   background-image: url(slike/header.jpg);
+   background-position:center;
+   
+}
+.jumbotron{
+	
+	background-position:0% 10%;
+	color:black;
+	background-width:1000px;
+	
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:;
+	
+
+}
+
+.container-fluid{
+	
+
+	
+}
+.naslovparagraf{
+	color:grey;
+	
+}
+
+.highlight{
+	color:grey;
+	
+}
+
+.panel-footer{
+	text-align:center;
+}
+#onama{
+	color:brown;
+	text-align:center;
+	font-size:200
+	žpx;
+}
